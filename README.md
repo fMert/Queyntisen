@@ -32,7 +32,7 @@ chmod +x install.sh
 
 Queyntisen, Python 3.8+ ve openai kütüphanesini gerektirir.
 
-```python git clone [https://github.com/fMert/Queyntisen.git](https://github.com/KULLANICI_ADIN/Queyntisen.git)
+```python git clone [https://github.com/fMert/Queyntisen.git](https://github.com/fMert/Queyntisen.git)
 cd Queyntisen
 pip install -r requirements.txt
 python editor.py
