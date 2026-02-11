@@ -23,7 +23,7 @@ Queyntisen, Yerel LLM'ler (LM Studio/Ollama aracılığıyla) veya OpenAI API il
 Ortamı hazırlamak ve `queyntisen` komutunu sisteme eklemek için:
 
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/Queyntisen.git](https://github.com/KULLANICI_ADIN/Queyntisen.git)
+git clone [https://github.com/KULLANICI_ADIN/Queyntisen.git](https://github.com/fMert/Queyntisen.git)
 cd Queyntisen
 chmod +x install.sh
 ./install.sh
@@ -32,7 +32,7 @@ chmod +x install.sh
 
 Queyntisen, Python 3.8+ ve openai kütüphanesini gerektirir.
 
-```python git clone [https://github.com/KULLANICI_ADIN/Queyntisen.git](https://github.com/KULLANICI_ADIN/Queyntisen.git)
+```python git clone [https://github.com/fMert/Queyntisen.git](https://github.com/KULLANICI_ADIN/Queyntisen.git)
 cd Queyntisen
 pip install -r requirements.txt
 python editor.py
