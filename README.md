@@ -23,7 +23,7 @@ Queyntisen, Yerel LLM'ler (LM Studio/Ollama aracılığıyla) veya OpenAI API il
 Ortamı hazırlamak ve `queyntisen` komutunu sisteme eklemek için:
 
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/Queyntisen.git](https://github.com/fMert/Queyntisen.git)
+git clone https://github.com/fMert/Queyntisen.git
 cd Queyntisen
 chmod +x install.sh
 ./install.sh
