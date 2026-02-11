@@ -28,6 +28,7 @@ cd Queyntisen
 chmod +x install.sh
 ./install.sh
 ```
+
 ## Manuel Kurulum
 
 Queyntisen, Python 3.8+ ve openai kütüphanesini gerektirir.
