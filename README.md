@@ -4,6 +4,8 @@ Queyntisen is a terminal-first Markdown note editor with an integrated AI writin
 
 It is designed for people who want to read, revise, and organize Markdown notes without leaving the terminal. By default, files open in a clean rendered preview. When you want direct control over the document, press one shortcut to switch into plaintext Markdown editing.
 
+Queyntisen is a terminal-native alternative to Obsidian. Where Obsidian runs on Electron and keeps you in a GUI, Queyntisen lives in your terminal — fast, keyboard-driven, and distraction-free. More importantly, while Obsidian needs community plugins to bolt on any AI functionality, Queyntisen ships with a first-class AI writing assistant that sees your entire document as context. No plugin setup, no API wrangling in a separate window — press `Ctrl-W`, describe what you want, and the AI revises your note directly in the buffer. If you want the power of linked Markdown notes plus AI but prefer the terminal to a heavy desktop app, Queyntisen is built for you.
+
 ![Screenshot](./screenshot.png)
 
 ## Features
